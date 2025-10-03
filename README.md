@@ -8,38 +8,38 @@ The goal is to help stakeholders quickly identify which regions drive the most s
 
 ## What’s Inside
 
-Data Cleaning & Preparation → handled missing values, standardized formats.
+-> Data Cleaning & Preparation → handled missing values, standardized formats.
 
-Exploratory Data Analysis (EDA) → visualized sales by region, product category, and time.
+-> Exploratory Data Analysis (EDA) → visualized sales by region, product category, and time.
 
-Revenue Insights → highlighted top-performing regions and products.
+-> Revenue Insights → highlighted top-performing regions and products.
 
-Comparative Analysis → compared sales across regions to identify strengths and weaknesses.
+-> Comparative Analysis → compared sales across regions to identify strengths and weaknesses.
 
-Actionable Recommendations → suggested steps to improve sales performance.
+-> Actionable Recommendations → suggested steps to improve sales performance.
 
 ## Tools & Libraries Used
 
-Python (Pandas, NumPy) → data manipulation
+-> Python (Pandas, NumPy) → data manipulation
 
-Matplotlib / Seaborn → data visualization
+-> Matplotlib / Seaborn → data visualization
 
-Jupyter Notebook → analysis and presentation
+-> Jupyter Notebook → analysis and presentation
 
 ## Key Findings
 
-Certain regions consistently outperform others in revenue.
+-> Certain regions consistently outperform others in revenue.
 
-Seasonal sales patterns play a significant role.
+-> Seasonal sales patterns play a significant role.
 
-A few products are the main revenue drivers across regions.
+-> A few products are the main revenue drivers across regions.
 
 ## Why This Matters
 
 Understanding regional sales dynamics helps SwiftCart:
 
-Focus marketing and sales efforts in the right areas.
+-> Focus marketing and sales efforts in the right areas.
 
-Improve inventory and supply chain decisions.
+-> Improve inventory and supply chain decisions.
 
-Build strategies that maximize revenue growth.
+-> Build strategies that maximize revenue growth.
